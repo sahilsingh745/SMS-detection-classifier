@@ -1,4 +1,4 @@
-# Project Title:SMS Detection Classifier
+# SMS Detection Classifier
 
 ## Overview
 This project aims to classify SMS messages as spam or not spam using various text preprocessing techniques and machine learning algorithms. The dataset used contains labeled SMS messages.
